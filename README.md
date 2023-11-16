@@ -1,2 +1,3 @@
 # project7
-encoding an image to base 64 using opencv and flask
+# using opencv for processing 
+processing an image using opencv and using flask and bootsrap for frontend
